@@ -14,9 +14,9 @@
 #include <thread>
 
 #include "Defines.h"
-#include "Snake.cpp"
-#include "Food.cpp"
-#include "Gfx.cpp"
+#include "Snake.hpp"
+#include "Food.hpp"
+#include "Gfx.hpp"
 
 
 void displayGame(Snake snake, Food food, Gfx gfx) {
